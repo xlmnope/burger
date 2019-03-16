@@ -9,3 +9,4 @@ CREATE TABLE burgers
   burger_name varchar(30) NOT NULL,
   devoured BOOLEAN
 );
+
